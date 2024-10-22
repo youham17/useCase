@@ -21,7 +21,7 @@ test('0001 - comparaison rapports', async ({ page, context }) => {
     let frame = page.frameLocator('#subMenu');
     await frame.locator('xpath=//span[@class="homeMenuImg menu-iconbutton cogifont cogi-GrandLivre"]').click();
     await page.waitForTimeout(1000);
-    await frame.locator('a').filter({ hasText: 'Plan comptable' }).click();
+    await frame.locator('a').filter({ hasText: 'nom_du_rapport' }).click();
 
     // Cliquer sur le bouton Imprimer et attendre que le rapport soit chargé
     const printButton = frame.getByRole('button', { name: 'Imprimer' });
@@ -51,11 +51,11 @@ test('0001 - comparaison rapports', async ({ page, context }) => {
     });
 
     // Sauvegarder le contenu dans un fichier local
-    const generatedPdfPath = path.join(__dirname, 'downloads', 'rapport_genere.pdf');
+    const generatedPdfPath = path.join(__dirname, 'downloads', 'rapport_genere_nom_du_rapport.pdf');
     await fs.writeFile(generatedPdfPath, downloadedBuffer);
 
     // Comparer les fichiers PDF
-    const referencePdfPath = path.join(__dirname, 'downloads', 'rapport_reference.pdf');
+    const referencePdfPath = path.join(__dirname, 'downloads', 'rapport_nom_du_rapport.pdf');
     const { isEqual, similarity } = await comparePDFs(generatedPdfPath, referencePdfPath);
 
     console.log(`Similarité des PDFs: ${(similarity * 100).toFixed(2)}%\n`);
@@ -167,7 +167,7 @@ async function comparePDFs(file1Path: string, file2Path: string): Promise<{ isEq
         differencesLog += `Pourcentage de mots modifiés: ${((changeCount.addedWords + changeCount.removedWords) / totalWords * 100).toFixed(2)}%\n`;
         differencesLog += `Pourcentage de lignes modifiées: ${((changeCount.addedLines + changeCount.removedLines) / totalLines * 100).toFixed(2)}%\n`;
 
-        await fs.writeFile(path.join(__dirname, 'downloads', 'rapport_differences.txt'), differencesLog);
+        await fs.writeFile(path.join(__dirname, 'downloads', 'rapport_differences_nom_du_rapport.txt'), differencesLog);
         console.log("Un fichier 'rapport_differences.txt' a été créé dans le dossier 'downloads' pour une analyse détaillée.");
     }
     

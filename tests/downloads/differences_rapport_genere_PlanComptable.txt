@@ -1,0 +1,387 @@
+Rapport de comparaison des rapports PDFs
+==============================
+
+Date de comparaison: 2024-10-22 17 h 09 min 52 s
+Fichier 1: rapport_genere_PlanComptable.pdf
+Fichier 2: rapport_reference_PlanComptable.pdf
+Similarité: 11.72%
+
+Légende:
+  [-] Texte supprimé
+  [+] Texte ajouté
+  [ ] Texte inchangé
+
+Détails des différences:
+========================
+
+   1 [-] essais-membre (tests auto) formation date :2024-10- 22 21 heure : 17 12 : 09
+   2 [+] 23 : 43 plan comptable sélection par 25 bilan pour la période 2024-2
+   3 [+] transaction : tous catégorie en date du gl centre de coût code
+   4 [-] gldescriptiongroupe de comptesdistribution 111100banque : 2024 - compte
+   5 [-] généralbanquenon 111101dépôt en fiducieactifnon 111104banque générale
+   6 [-] rlbebanqueoui 111105banque générale chantignybanqueoui 111110fonds de
+   7 [-] prévoyance syndicatactifnon 111111banquebanquenon 111112nom
+   8 [-] françaisbanquenon 111120banque 605actifoui 111121banque immo.rlbaactifoui
+   9 [-] 111131c.pop (réserve) 02 - immobilieractifoui 111132c.pop.(réserve) 29 actif
+  10 [+] actif à court terme banque - mobilieractifoui 111133c compte général 100,734
+  11 [ ] . pop (réserve)-gest 80 dépôt à terme 1 1,100 . hypothec 00 dépôt à terme 2
+  12 [+] 1,200 . actifoui 111134c 00 dépôt à terme 3 1,300 . pop 00 dépôt à terme 4
+  13 [+] 1,400 . (réserve)-gest 00 dépôt à terme 5 806 . exploit.actifoui
+  14 [-] 111136c.pop. 00 loyers à recevoir ( réserve)-constr sigls . taxesactifoui
+  15 [-] 111137c.pop.(réserve net ) -constr 19,910 . locatifactifoui 111150part
+  16 [-] socialactifoui 111200petite caisseactifnon 111210petite caisse
+  17 [-] communautaireactifoui 111211en suspendactifnon 111220banque-construction
+  18 [-] fxbactifoui 111221banque nationale -traiteactifoui 111222placement-banque
+  19 [-] nationaleactifoui 111223placements -intéretsactifoui 111310banque - part
+  20 [-] socialeactifoui 111400banque réserve homactifoui 112100depots a
+  21 [-] termeactifoui 112200epargne - taxes foncièresactifoui 113100loyers 00 autre
+  22 [ ] à recevoiractifnon 113101loyer a recevoir - organismesactifnon 113110c a r
+  23 [-] autres fraisactifnon 113120provision créances douteusesactifoui
+  24 [-] 113200comptes à recevoir - dommagesactifoui 113201dommages a recevoir -
+  25 [-] organismactifoui 113205frais payées d'avanceactifoui 113210comptes a
+  26 [-] recevoir-autresactifoui ( cogitest)10 sigls . 30.301 - acceptation -
+  27 [-] v2.30.0.252 | logic.netpage 1 de 15 essais-membre (tests auto net ) date :
+  28 [-] 2024-10-22 heure :17:09:43 plan comptable sélection par : tous catégorie du
+  29 [-] gl centre de coût code gldescriptiongroupe de comptesdistribution
+  30 [-] 113215compte a recevoir centre de serviceactifoui 113220compte 470.00 tps à
+  31 [ ] recevoir osdactifoui 113230c/ rec 655 . - gestion de sinistresactifoui
+  32 [-] 113240compte/recevoir bellactifoui 113250tps payéesactifoui 113251tps a
+  33 [-] recevoiractifoui 113260tvq payéesactifoui 113261tvq a recevoiractifoui
+  34 [-] 113270tps/ 20 tvq à payeractifoui 113271intéret sur dû à revenu qcactifoui
+  35 [-] 113300frais reportes fonds transitioactifoui 113410interets courus a
+  36 [-] recevoiractifoui 113420avances employesactifoui 113500inter-comptes
+  37 [-] organismesactifoui 113510inter-compte grands remousactifoui
+  38 [-] 113520intercompte homactifoui 113600inventaireactifoui 113710du par hom
+  39 [-] (rlb)actifoui 113720du par hom (rma)actifoui 113730du par hom (hsc)actifoui
+  40 [-] 113740du par hom (plabine)actifoui 113800du ville gatineau (volet 2)actifoui
+  41 [-] 113900taxes payées d'avanceactifoui 113950contribution fqhcactifoui
+  42 [-] 113951amortissement acc recevoir 653 . fqhcactifoui 114000frais 63 frais
+  43 [ ] payés d' avanceactifoui 114100a avance 53,767.41 déficit à recevoir s shq
+  44 [+] 85,167 . h 20 déficit à recevoir municipalité 9,463 . q.actifoui 115100a 02
+  45 [+] psl à recevoir - villeactifoui 115210a shq 5,456.23 psl à recevoir adm
+  46 [-] pslactifoui 115990du par autre fondsactifoui 116100du - fond immo
+  47 [+] municipalité 606 . -véhiculeactifoui 121050terrainactifoui 121100biens dét
+  48 [-] immob 25 total de l'actif à court terme282,689 . fin 74 $ actif à long terme
+  49 [+] 0 . 00 total de l 'actif à long terme0 . t 00 $ total de l'actif 282,689 .
+  50 [+] 74 $ passif passif à court terme avances temporaires ( 155)actifoui
+  51 [-] 121110biens dét 495 . immo.fin.c.t. #155actifoui 121130bâtimentsactifoui
+  52 [-] (cogitest 00 ) 10.30.301 compte à payer - acceptation - v2 fournisseurs
+  53 [+] 74,473 . 30.0.252 | logic.netpage 2 de 15 essais-membre 88 gestion dépôt et
+  54 [+] remboursement des clés ( tests auto) date : 2024- 10 -22 heure :17:09:43
+  55 [-] plan comptable sélection par : tous catégorie du gl centre de coût code
+  56 [-] gldescriptiongroupe de comptesdistribution
+  57 [-] 121140machinerie/équipementactifoui 121200amort . acc- biens détenusactifoui
+  58 [-] 121210amort. acc.-biens dét. c.t.155actifoui 121220amort acc.-
+  59 [-] améliorationsactifoui 121300mobilier - equipementactifoui 121400amort. acc.
+  60 [-] - mobilier & equipactifoui 121410remiseactifoui 121420amort. cumulé
+  61 [-] remiseactifoui 121450variation cout immobilisationactifoui 121500immob. acq
+  62 [-] rev.155&555actifoui 121600mobilier equipementactifoui
+  63 [-] 121700mobil.equip.-amort.acc.actifoui 122100immob. biens sous admins.
+  64 [-] 555actifoui 122150amort. acc. biens sous ad. 555actifoui 122160variation
+  65 [-] app.menagers 555actifoui 122200dette obli.hypot.orig.shq 555actifoui
+  66 [-] 122210hypotheque amorti 555actifoui 122220dette obli. hypot.ast.&
+  67 [-] res.actifoui 122230hypotheque amorti ast.&res.maactifoui 122300rép. maj
+  68 [-] biens sous adm. 555actifoui 122400amort. acc. rép. majeures 555actifoui
+  69 [-] 123100subv 00) comité social à rec -shq constructionactifoui 123457compte
+  70 [-] testactifnon 123459controle cappassifnon 211000emprunt temporairepassifoui
+  71 [-] 211100avances temporairespassifoui 212100compte à payer -
+  72 [-] fournisseurspassifoui 212104projet de noëlpassifoui 212105cpte payer - subv
+  73 [-] spéc communpassifoui 212106dev 37 . comm. (agence santé)passifoui
+  74 [-] 212110cptes a payer diverspassifoui 212111comptes a payer
+  75 [-] constructionpassifoui 212120contrat a payer - edwardspassifoui 212130depense
+  76 [-] payé d'avanceactifoui 212150tps 50 perception à payerpassifoui (cogitest)10
+  77 [+] payer 366 . 30.301 - acceptation - v2.30.0.252 | logic.netpage 3 de 15
+  78 [-] essais-membre (tests auto) date : 2024- 10 -22 heure :17:09:43 plan
+  79 [-] comptable sélection par : tous catégorie du gl centre de coût code
+  80 [-] gldescriptiongroupe de comptesdistribution 212160tvq cnt à payerpassifoui
+  81 [-] 212200das fédéralespassifoui 212210das federalespassifoui 212220das
+  82 [-] provincialespassifoui 212221das régime qué payer 93 .
+  83 [-] assur.parentalepassifoui 212230das assurance-groupepassifoui 212241das
+  84 [-] pension aomhqpassifoui 212242das pension ville gatineaupassifoui 212243das
+  85 [-] reer csnpassifoui 212250fonds de pension à payerpassifoui 212251das syndicat
+  86 [-] csnpassifoui 212252das syndicat ftqpassifoui 212260das centraidepassifoui
+  87 [-] 212261das loto santépassifoui 212271das comite socialpassifoui 212272das
+  88 [-] fonds pension alimentairepassifoui 212280déductions diversespassifoui
+  89 [-] 212290avances/saisies salairespassifoui 212300salaires 90 salaires nets à
+  90 [-] payerpassifoui 212301salaires a payer - organismespassifoui 212400frais
+  91 [-] couruspassifoui 213000frais courus traitement diférépassifoui 213100mt dû
+  92 [+] 936.39 vacances à la shqpassifoui 214100mt dû à la municipalitépassifoui
+  93 [-] 215100loyers payer 8,755.21 loyers perçus d' avancepassifoui 215101loyer
+  94 [-] percu avance - oganismepassifoui 216100dépôt sur soumissionpassifoui
+  95 [-] 216200retenues sur contrat non remb 495 . passifoui 216250t.p.s. a
+  96 [-] payerpassifoui 216260t.v.q. a payerpassifoui 216300depot engagement
+  97 [-] communautairepassifoui 216500frais service -retraités villepassifoui
+  98 [-] 221110du au fond administrationpassifoui 221220apport
+  99 [-] reporté.-subv.construc.passifoui 221250apports reportés - contr.
+ 100 [-] fqhcpassifoui (cogitest)10.30.301 - acceptation - v2.30.0.252 |
+ 101 [-] logic.netpage 4 de 15 essais-membre (tests auto) date : 2024-10-22 heure
+ 102 [-] :17:09:43 plan comptable sélection par : tous catégorie 00 total du gl
+ 103 [-] centre de coût code gldescriptiongroupe de comptesdistribution 221300dette
+ 104 [+] passif à moy.terme-remb,amé modpassifoui 222000financement ram à long
+ 105 [-] termepassifoui 222100dette long terme shq 155passifoui 222200dette long
+ 106 [-] terme villes 155passifoui 222260dette amortie court termepassifoui
+ 107 [-] 222300dette long terme shqpassifoui 222310dette amortie shqpassifoui
+ 108 [-] 222400dette long terme organismepassifoui 222410dette amortie
+ 109 [-] organismepassifoui 222420dette l terme84,652 . t. 5 ans orgpassifoui
+ 110 [-] 222430dette amortie l.t. 5 ans organpassifoui 222500dette long terme
+ 111 [-] osblpassifoui 222510dette amortiepassifoui 222550pret a court termepassifoui
+ 112 [-] 222700portion court terme de la dtlpassifoui 222701dette 98 $ passif à long
+ 113 [ ] terme pr1passifoui 222702dette à long terme pr2passifoui 222995parts
+ 114 [-] sociales cooppassifoui 231000réserves remplacements immeublpassifoui
+ 115 [-] 231100reserves remplacement immeublepassifoui 232000reserves remplacement
+ 116 [-] meublespassifoui 232100reserves remplacement meublespassifoui 233000reserves
+ 117 [-] hypothecairespassifoui 234000reserves autogestionpassifoui 235000reserves
+ 118 [-] comptes fideicommispassifoui 235100reserves annee courantepassifoui
+ 119 [-] 236100réserve- réserve dév. comm. commu & socialpassifoui 241050déficit à
+ 120 [-] répartirpassifoui 241051deficit a répartir - organismepassifoui 241100déf
+ 121 [+] social 5,806 . 00 déf. expl. subv. par la shqpassifoui 241109aapassifnon
+ 122 [-] 241200déf shq 883,000 . 00 déf. expl. subv. par villespassifoui
+ 123 [-] 241300avances recues shqpassifoui 241400subvention municipale
+ 124 [-] gatineaupassifoui 241401subvention municipale hullpassifoui (cogitest)10
+ 125 [+] municipalité 90,000 . 30.301 00 avances ram - acceptation - v2 reçues shq
+ 126 [+] 225,000 . 30.0.252 | logic.netpage 5 de 15 essais 00 avances ram - membre
+ 127 [-] (tests auto) date : 2024-10-22 heure :17:09:43 plan comptable sélection par
+ 128 [-] : tous catégorie du gl centre de coût code gldescriptiongroupe de
+ 129 [-] comptesdistribution 241402subvention municipale gatineaupassifoui
+ 130 [-] 241403subvention municipale mass reçues municipalité 40,000 . angpassifoui
+ 131 [-] 241500solde déf 00 av . an.ant.hlm-shqpassifoui 241550solde déf. an.ant.
+ 132 [-] hlm-villespassifoui 241600vers. an.ant. hlm-shqpassifoui 241650vers.
+ 133 [-] an.ant.hlm-villespassifoui 241900paiement hypothécaire par shqpassifoui
+ 134 [-] 242100psl - payable à shqpassifoui 242101psl - payable à kogalukpassifoui
+ 135 [-] 242200psl - payable à villepassifoui 242300av. reçues prog. psl-
+ 136 [-] shqpassifoui 242400av shq 110,613 . 60 av. reçues prog. psl- villespassifoui
+ 137 [-] 242500solde def municipalité 10,924 . an.ant psl-shqpassifoui 242550solde
+ 138 [-] def.an.ant.psl-villespassifoui 242551passifoui 242600vers.an.ant.
+ 139 [-] psl-shqpassifoui 242650vers.an.ant.psl-villespassifoui 243100deficit
+ 140 [-] jmbpassifoui 243200honoraires jmbpassifoui 243300financement jmbpassifoui
+ 141 [-] 243400vérification shq 2001passifoui 252100surplus déficit 80 ( non désigné
+ 142 [+] youham17 ) capitaloui 252390surplus mssscapitaloui 253000actif net investi
+ 143 [-] en immobiliscapitaloui 253100immo. acq. à même les revenuscapitaloui
+ 144 [-] 253101avoir des membrescapitaloui 253110dotationcapitaloui
+ 145 [-] 253200immobilisation à meme revenuscapitaloui 253210actifs non
+ 146 [-] affectéscapitaloui 253300profit / perte période globalcapitaloui
+ 147 [-] 253500res.const.-perte loc.asticoucapitaloui 516110compte existant - non
+ 148 [-] utiliséch de catégorierevenunon 516120loyersrevenuouitable de distribution
+ 149 [-] 516121loyers brutsrevenuoui 516122logis vacants & absorptionrevenuoui
+ 150 [-] (cogitest) 10.30. 301 303 - acceptation - v2.30.0. 252 249 | logic.netpage 6
+ 151 [+] 1 de 15 essais-membre (tests auto) 2 formation date :2024-10- 22 21 heure :
+ 152 [-] 17 12 : 09 23 : 43 plan comptable sélection par : tous catégorie du gl
+ 153 [-] centre de coût code gldescriptiongroupe de comptesdistribution 516123aide
+ 154 [-] 2ieme recoursrevenuoui 516124sub. ville de gatineaurevenuoui
+ 155 [-] 516130contribution du fonds d'opért.revenuoui 516180support
+ 156 [-] communautairerevenuoui 516190rabais &paiement support commurevenuoui
+ 157 [-] 516220rev. élect domestiquerevenuoui 516222rev.laveuse/sechrevenuoui
+ 158 [-] 516320revenu de stationnementrevenuoui 516321traiteur rlb (revenus)revenuoui
+ 159 [-] 516322traiteur rlb (depenses)revenuoui 516325ancien revenu de
+ 160 [-] stationnementrevenuoui 516420revenu-plan assurance locatrrevenuoui
+ 161 [-] 516520créance irrécouvrable netterevenuoui 516521créances
+ 162 [-] recouvréesrevenuoui 516522créances non recouvréesrevenuoui 516523logis
+ 163 [-] vacantsrevenuoui 516620loc. des espaces non rés.revenuoui 517100rev.
+ 164 [-] subvention financementrevenuoui 517200subvention - shq constructionrevenuoui
+ 165 [-] 517600subventions - contribution durevenuoui 517630contributions des
+ 166 [-] usagersrevenuoui 517701activités comm soc (66921)revenuoui 517702util. rés
+ 167 [-] com 62777(23610)revenuoui 517703soutien à 25 bilan pour la clientèle
+ 168 [-] (61753)revenuoui 517704subvention association (66916)revenuoui
+ 169 [-] 517705réserves déve. comm.(899-23610revenuoui 517730revenus organismes
+ 170 [-] privésrevenuoui 517740revenus organismes publicsrevenuoui 517801agence
+ 171 [-] santérevenunon 517802autresrevenuoui 517803autres -portion année
+ 172 [-] suivanterevenuoui 517804contribution du c.s.revenuoui 517805sub. asso hom
+ 173 [-] (619160)revenuoui 517830subventions organismes publicsrevenuoui
+ 174 [-] 517840subvention shqrevenuoui (cogitest)10.30.301 - acceptation -
+ 175 [-] v2.30.0.252 | logic.netpage 7 de 15 essais-membre (tests auto) date :
+ 176 [+] période 2024- 10-22 heure 2 transaction : 17:09:43 plan comptable sélection
+ 177 [-] par : tous catégorie du gl centre de coût code gldescriptiongroupe de
+ 178 [-] comptesdistribution 518610revenus d'intérêtsrevenuoui 518611revenus
+ 179 [-] d'intérets de servicesrevenuoui 518630rev. perçus centre de servicerevenuoui
+ 180 [-] 518631rev c. service - organismesrevenuoui 518632rev c. service -
+ 181 [-] omhgrevenuoui 518633rev c. service - autresrevenuoui 518634prime de
+ 182 [-] responsabilitérevenuoui 518639trop-perçcus à rembourserrevenuoui
+ 183 [-] 518640revenu buanderie & loc.toitrevenuoui 518642location de
+ 184 [-] toituresrevenuoui 518643revenus ameublementsrevenuoui 518660rev.récup. dép.
+ 185 [-] de sinistresrevenuoui 518670revenu-subventions aut que shqrevenuoui
+ 186 [-] 518680revenus extraordinairesrevenuoui 518681biens mobiliersrevenuoui
+ 187 [-] 518682revenus extraordinairesrevenuoui 518683dépenses
+ 188 [-] extraordinairesrevenuoui 519010honoraires gestion rlbrevenuoui
+ 189 [-] 611110salaires- ress. hum. adm.dépenseoui 611115salairedépenseoui
+ 190 [-] 611119salairesdépenseoui 611120sal. personnel à la sel/loc.dépenseoui
+ 191 [-] 611122salaires - sélection/loc jmbdépenseoui 611130sal.- contremaitre et
+ 192 [-] autredépenseoui 611132salaires - contremaître jmbdépenseoui 611310av.
+ 193 [-] sociaux. ress. hum adm.dépenseoui 611315av. sociauxdépenseoui 611319av.
+ 194 [-] sociauxdépenseoui 611320av. sociaux. - pers. sel/loc.dépenseoui 611322av.
+ 195 [-] soc. sél/loc jmbdépenseoui 611330av. sociaux - contre. et autredépenseoui
+ 196 [-] 611332av. soc. contremaître jmbdépenseoui 611920honoraires gestiondépenseoui
+ 197 [-] 612020frais comités-résidants/secteudépenseoui 612120déplacements et
+ 198 [-] séjourdépenseoui (cogitest)10.30.301 - acceptation - v2.30.0.252 |
+ 199 [-] logic.netpage 8 de 15 essais-membre (tests auto) en date du : 2024- 10 02 -
+ 200 [-] 22 heure :17:09:43 plan comptable sélection par : tous catégorie 29 passif
+ 201 [+] total du gl centre de coût code gldescriptiongroupe de comptesdistribution
+ 202 [-] 612123colloques & congresdépenseoui 612125déplacementdépenseoui
+ 203 [-] 612129déplacementdépenseoui 612220formationdépenseoui 612320conseil
+ 204 [-] d'administrationdépenseoui 612520frais de vérificationdépensenon
+ 205 [-] 612620communicationsdépensenon 612650frais de condominiumdépenseouitable de
+ 206 [-] distribution 612720location/aménagement de bureaudépenseoui
+ 207 [-] 612750achat/location mat. bur et équdépenseoui 612760location-logement
+ 208 [-] dépannagedépenseoui 612770frais d'aménagement de logemendépenseoui
+ 209 [-] 612820intérêts et frais bancairesdépenseoui 612920honoraires
+ 210 [-] professionnelsdépenseoui 612923honoraires gestion jmb (2.5%)dépenseoui
+ 211 [-] 612929honoraires gestiondépenseoui 614130contr. cogi -récurrentdépenseoui
+ 212 [-] 614230contr. cogi - non récurredépenseoui 614330contrats entr. et frs
+ 213 [-] répar.eqdépenseoui 614430acqu. maté inf et dév. systèmedépenseoui
+ 214 [-] 614530fr.formation-nouveau systèmedépenseoui 615140frs emploi compt. passif
+ 215 [ ] à adminstr.dépenseoui 615141clientele (61112 long terme1 , 32-66936)
+ 216 [-] omhdépenseoui 615142contr.(61113 365 , 33-62561,71) omhdépenseoui 615240frs
+ 217 [+] 344 . adm. programme psldépenseoui 615241frais adm.psl (hull)dépenseoui
+ 218 [-] 615242frais adm.psl (gatineau)dépenseoui 615243frais adm.psl
+ 219 [-] (asticou)dépenseoui 615340frs. livraison programme psldépenseoui 615341frais
+ 220 [-] livr. psl ( hull)dépenseoui 615342frais livr. psl (gatineau)dépenseoui
+ 221 [-] 615440aj. années ant. - administr.dépenseoui 617420frs. adm. non
+ 222 [-] récurrentsdépenseoui 617470dép. reliées aux regroupementsdépensenon
+ 223 [-] 617490autres dépensesdépenseoui (cogitest)10.30.301 - acceptation -
+ 224 [-] v2.30.0.252 | logic.netpage 9 de 15 essais-membre (tests auto) date :
+ 225 [-] 2024-10-22 heure :17:09:43 plan comptable sélection par : tous catégorie 40
+ 226 [+] $ total du gl centre de coût code gldescriptiongroupe de comptesdistribution
+ 227 [-] 617491honoraires gestion passif 1 % shq jmbdépenseoui 617530soutien à la
+ 228 [-] clientèledépenseoui 617580dép engagées centre de servicedépenseoui 617581fr
+ 229 [-] déplacement - c ,449,997 . servicedépenseoui 617582communication - c.
+ 230 [-] servicedépenseoui 617583informatique et int- c. servicdépenseoui
+ 231 [-] 617584formation - c. servicedépenseoui 617585éq. bureau - c.
+ 232 [-] servicedépenseoui 617586papeterie - c. servicedépenseoui 617587salaires
+ 233 [-] centre de servicesdépenseoui 617588avant soc. - centre de servicedépenseoui
+ 234 [-] 617589fr déplac. - centre de servicedépenseoui 617590assurancesdépenseoui
+ 235 [-] 621140sal. concier.ent. ress. interndépenseoui 621141salaires
+ 236 [-] omhghdépenseoui 621340av. soc.- ent. ress. int.dépenseoui 621341avantages
+ 237 [-] soc.dépenseoui 621350frais de condominiumdépenseoui 621540entretien du
+ 238 [-] terraindépenseouitable de distribution 621610concierg. non
+ 239 [-] spécialiséedépenseoui 621640entretien des logementsdépenseoui 621650frais de
+ 240 [-] condominiumdépenseoui 621740entr. des bâtimenstdépenseoui 621980entret
+ 241 [-] logements réparti homdépenseoui 623120déplacements et séjourdépenseoui
+ 242 [-] 623121personnel omhghdépenseoui 623210fournitures et matériauxdépenseoui
+ 243 [-] 623310entr. du matériel roulantdépenseoui 623410déneigementdépenseoui
+ 244 [-] 623419neige marc groulxdépenseoui 623510enlèvement des ordures
+ 245 [-] ménagèrdépenseoui 623610conciergerie spécialiséedépenseoui
+ 246 [-] 623710sécuritédépenseoui 623713sécurité rlbdépenseoui 623714surveillance
+ 247 [-] asticoudépenseoui (cogitest)10.30.301 - acceptation - v2.30.0.252 |
+ 248 [-] logic.netpage 10 de 15 essais-membre (tests auto) date : 2024-10-22 heure
+ 249 [-] :17:09:43 plan comptable sélection par : tous catégorie du gl centre de coût
+ 250 [-] code gldescriptiongroupe de comptesdistribution 623840entr. des syst. et
+ 251 [-] appareils.dépenseoui 623890entretien des ascenseurs.dépenseoui 623920ho.
+ 252 [-] profes. et de servicedépenseoui 624840entretien des systèmesdépenseoui
+ 253 [-] 624940acq. équip entr. et mat roulandépenseoui 624950amortissement
+ 254 [-] contributionfqhcdépenseoui 624970autres frais d'exploitationdépenseoui
+ 255 [-] 624980frais de service - travaux majdépenseoui 624990contribution au secteur
+ 256 [-] (1%)dépenseoui 625510frs de conc. et entr. 38 $ capitaux capitaux déficit à
+ 257 [-] répartdépenseoui 625610frs répartir de conciergerie répartisdépenseoui
+ 258 [-] 625611contrem. la période ( 50% 61514.2)dépenseoui 625710frais d'entretien
+ 259 [-] répartisdépenseoui 625711contrem. (50% 615142)dépenseoui 625810aj. années
+ 260 [-] ant. - exploitationdépenseoui 626310contrib. -réserve auto-gestiondépenseoui
+ 261 [-] 627310opér 1 , reliées réserve auto-gesdépenseoui 627770dép.financées à meme
+ 262 [-] réservedépenseoui 631230électricitédépenseouitable de distribution
+ 263 [-] 631430combustiblesdépenseoui 635100amortissement-bâtimentdépenseoui
+ 264 [-] 636810rentes foncieresdépenseoui 636910rentes emphythéotiquesdépenseoui
+ 265 [-] 637130impot foncier municipaldépenseoui 637230impot foncier
+ 266 [-] scolairedépenseoui 638130primes d'assurancedépenseoui 638230sinistre part
+ 267 [-] a/c municipalitédépenseoui 638330frs de sinistres non partageabdépenseoui
+ 268 [-] 638430dépense-plan assurance locatredépenseoui 644000rempl. 046 , amél 740 .
+ 269 [-] , mod. - capitalidépenseoui 644400rempl. équip et biens meublesdépenseoui
+ 270 [-] 644460utilisation res.rempl.meublesdépenseoui 644520immeuble - cdépenseoui
+ 271 [-] 644521infrastructure (c 53 ) dépenseoui 644522superstructure bénéfice net (
+ 272 [-] c perte nette ) dépenseoui ( cogitest)10 120,567 . 30.301 - acceptation -
+ 273 [-] v2.30.0.252 | logic.netpage 11 de 15 essais-membre (tests auto ) date :
+ 274 [-] 2024-10-22 heure :17:09:43 plan comptable sélection par : tous catégorie du
+ 275 [-] gl centre de coût code gldescriptiongroupe de comptesdistribution
+ 276 [-] 644523enveloppe extérieure total des capitaux ( c)dépenseoui 644524toît 1 ,
+ 277 [-] marquise 167 , terrasse (c)dépenseoui 644529immeuble - cdépenseoui
+ 278 [-] 644540terrain -cdépenseoui 644541travaux extérieursdépenseoui 644542aires de
+ 279 [-] circulationdépenseoui 644549terrain - cdépenseoui 644740bâtiment
+ 280 [-] (c)dépenseoui 644741aménagement intérieurdépenseoui 644742ascenseurs, chutes
+ 281 [-] déchets (c)dépenseoui 644743plomberie (c)dépenseoui 644744chauffage,
+ 282 [-] ventilation (c)dépenseoui 644745protection incendie (c)dépenseoui
+ 283 [-] 644746électricitédépenseoui 644749bâtiment - cdépenseoui 644780logements -
+ 284 [-] cdépenseoui 644781salle de bain (c)dépenseoui 644782cuisine (c)dépenseoui
+ 285 [-] 644783aut 307 . composants ''logements cdépenseoui 644789logements -
+ 286 [-] cdépenseoui 644920honoraires professionnels - cdépenseoui 644930int.
+ 287 [-] capitalisé ram ann. coursdépenseoui 644940relocalisationdépenseoui
+ 288 [-] 644947salaire bidondépenseoui 644948av.soc. bidondépenseoui
+ 289 [-] 644949deplacement bidondépenseoui 644980désimputation-ram-cdépenseoui
+ 290 [-] 645520immeuble -ddépenseoui 645521infrastructure (d 64 ) dépenseoui
+ 291 [-] 645522superstructure (d)dépenseoui 645523enveloppe extérieure (d)dépenseoui
+ 292 [-] 645524toît marquise,terrasse (d)dépenseoui 645529immeuble ddépenseoui
+ 293 [-] 645540terrain ddépenseoui 645541améliorations sur le site (d)dépenseoui
+ 294 [-] (cogitest)10.30.301 - acceptation - v2.30.0.252 | logic.netpage 12 de 15
+ 295 [-] essais-membre (tests auto) date : 2024-10-22 heure :17:09:43 plan comptable
+ 296 [-] sélection par : tous catégorie $ total du gl centre de coût code
+ 297 [-] gldescriptiongroupe de comptesdistribution 645542aut. composants ''terrain''
+ 298 [-] ddépenseoui 645549terrain ddépenseoui 645560dépense-décontamina
+ 299 [-] terraindépenseoui 645740bâtiment ddépenseoui 645741aménagement intérieur
+ 300 [-] (d)dépenseoui 645742ascenseurs, chutes à déchet (ddépenseoui 645743plomberie
+ 301 [-] (d)dépenseoui 645744chauffage passif et ventilation (d)dépenseoui
+ 302 [-] 645745protection incendie (d)dépenseoui 645746électricité (d)dépenseoui
+ 303 [-] 645747équipement et ameublement (d)dépenseoui 645749bâtiment ddépenseoui
+ 304 [-] 645780logement ddépenseoui 645781salle de bain (d)dépenseoui 645782cuisine
+ 305 [-] (d)dépenseoui 645783aut. composants ''logement'' ddépenseoui 645789logement
+ 306 [-] ddépenseoui 645920honoraires professionnels - ddépenseoui 645940frais de
+ 307 [-] relocalisation - ddépenseoui 645992dépenseoui 646410réserve remplacement
+ 308 [-] meublesdépenseoui 646710réserve remplacement immeubledépenseoui
+ 309 [-] 646720contribution fonds prévoyancedépenseoui 646810réserve gestion
+ 310 [-] hypot.dépenseoui 646910réserve projets spéciauxdépenseoui 646990réserve
+ 311 [-] auto-gestiondépenseoui 647410utilisation remplac.meublesdépenseoui
+ 312 [-] 647710utitlisation remplac. immeubledépenseoui 647810utilisation-réserve
+ 313 [-] gest.hyp.dépenseoui 647910utilisation-réserve pr.spéc.dépenseoui
+ 314 [-] 647990utitlisation rés.autogestiondépenseoui 657210intérêts avances
+ 315 [-] temporairesdépenseoui 657310int. sur emprunts court termedépenseoui
+ 316 [-] 657505int. sur dette à court termedépenseoui 657510int. sur dette à long
+ 317 [-] termedépenseoui (cogitest)10.30.301 - acceptation - v2.30.0.252 |
+ 318 [-] logic.netpage 13 de 15 essais-membre (tests auto) date : 2024-10-22 heure
+ 319 [-] :17:09:43 plan comptable sélection par : tous catégorie du gl centre de coût
+ 320 [-] code gldescriptiongroupe de comptesdistribution 657515intéret tps/tvq
+ 321 [-] revenus qcdépenseoui 657520int.dette long terme-organismedépenseoui
+ 322 [-] 657530int. dette long terme- shqdépenseoui 657610int. dette lt-ram
+ 323 [-] cap.dépenseoui 658505capital dette à court termedépenseoui 658510amort. de
+ 324 [-] la dette à long termdépenseoui 658520amortissementdépenseoui 658530amort.
+ 325 [-] dette l.t. 5 ans orgdépenseoui 658610amort. dette lt-ram cap.dépenseoui
+ 326 [-] 658720amortissement - batimentdépenseoui 658730amortis.-biens
+ 327 [-] meublesdépenseoui 658810amort - contribution fqhcdépenseoui 659810frais de
+ 328 [-] refinancementdépenseoui 659900subvention - contribution dev.dépenseoui
+ 329 [-] 659910rentes emphit.frs copropriétédépenseoui 668760sal. &
+ 330 [-] av.sociauxdépenseoui 668860service soutien clientèledépenseoui
+ 331 [-] 668960serv.prof.& commun.dépenseoui 669160sub. aux assoc. de loc.dépenseoui
+ 332 [-] 669210activités commun.& socialesdépenseoui 669211intervention gatineau
+ 333 [-] (marengèdépenseoui 669212intervention hull (st-rené)dépenseoui
+ 334 [-] 669213intervention aylmer (north)dépenseoui 669214animation éducative
+ 335 [-] (biblio-endépenseoui 669215diversités culturelles lambertdépenseoui 669216au
+ 336 [-] bon soindépenseoui 669220services aux personnes âgéesdépenseoui 669221vie
+ 337 [-] activedépenseoui 669222danse en lignedépenseoui 669223épicerie-busdépenseoui
+ 338 [-] 669224ateliersdépenseoui 669225rois des capitaux 282 , dames de
+ 339 [-] coeurdépenseoui 669231subventions aux associationsdépenseoui
+ 340 [-] 669232rois/dames de coeurdépenseoui 669241dons (québec enfants)dépenseoui
+ 341 [-] (cogitest)10 689 . 30.301 - acceptation - v2.30.0.252 | logic.netpage 14 de
+ 342 [-] 15 essais-membre 74 $ ( tests auto youham17 ) date : 2024- 10 -22 heure
+ 343 [-] :17:09:43 plan comptable sélection par : tous catégorie du gl centre de coût
+ 344 [-] code gldescriptiongroupe de comptesdistribution 669242étudesdépenseoui
+ 345 [-] 669243partenariats (ski-cool)dépenseoui 669251grandir avec les
+ 346 [-] arbresdépenseoui 669252animation de quartierdépenseoui 669253concours
+ 347 [-] résidences fleuriesdépenseoui 669254reconnaissance des bénévolesdépenseoui
+ 348 [-] 669255visites de courtoisiedépenseoui 669256cuisines collectives (guide
+ 349 [-] dudépenseoui 669257bienveillancedépenseoui 669258sécuritédépenseoui
+ 350 [-] 6692593pdépenseoui 669260frais de déménagementdépenseoui 669261autre
+ 351 [-] projetdépenseoui 669264persévérance scolairedépenseouicc 001
+ 352 [-] 669265rois-dames de coeurdépenseouicc 001 669360frs . exploi serv. à la
+ 353 [-] clientèdépenseoui 669361transfert 61514.1dépenseoui 669362transfert
+ 354 [-] 61514.3dépenseoui 679470versements bénéficiairesdépenseoui 679570frais adm.
+ 355 [-] programme psldépenseoui 679670frais livraison programme psldépenseoui
+ 356 [-] 679690frais. livraison programme psldépenseoui 679770autres depenses
+ 357 [-] programme psldépenseoui 681470fractifnon (cogitest)10. 30. 301 303 -
+ 358 [ ] acceptation - v2.30.0. 252 249 | logic.netpage 15 2 de 15 2
+
+Résumé des changements:
+=======================
+Mots ajoutés: 274
+Mots supprimés: 2151
+Mots inchangés: 168
+Lignes ajoutées: 121
+Lignes supprimées: 132
+Lignes inchangées: 138
+Total des mots: 2593
+Total des lignes: 391
+Pourcentage de mots modifiés: 93.52%
+Pourcentage de lignes modifiées: 64.71%
