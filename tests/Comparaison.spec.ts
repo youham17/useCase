@@ -58,8 +58,8 @@ test('0001 - comparaison rapports', async ({ page, context }) => {
     const referencePdfPath = path.join(__dirname, 'downloads', 'rapport_reference.pdf');
     const { isEqual, similarity } = await comparePDFs(generatedPdfPath, referencePdfPath);
 
-    console.log(`Similarité des PDFs: ${similarity}`);
-    expect(isEqual, `Les PDFs ne sont pas suffisamment similaires. Similarité: ${similarity}`).toBe(true);
+    console.log(`Similarité des PDFs: ${(similarity * 100).toFixed(2)}%\n`);
+    expect(isEqual, `Les PDFs ne sont pas suffisamment similaires. Similarité: ${(similarity * 100).toFixed(2)}%\n`).toBe(true);
 
     console.log("La comparaison des rapports est terminée avec succès.");
 
