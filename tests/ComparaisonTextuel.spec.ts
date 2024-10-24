@@ -61,7 +61,8 @@ async function gererComparaisonRapport(page: any, context: any, nomRapport: stri
     expect(estIdentique, `Les PDFs ne sont pas suffisamment similaires. Similarité: ${(similarite * 100).toFixed(2)}%\n\n`).toBe(true);
 
     if (estIdentique) {
-        console.log(`La comparaison du rapport '${nomRapport}' a réussi. Les fichiers sont identiques.`);
+        console.log(`La comparaison des rapports '${nomRapport}' est terminée avec succès.`);
+        //La comparaison des rapports est terminée avec succès.
     } else {
         console.log(`Des différences ont été trouvées dans le rapport '${nomRapport}'.`);
     }

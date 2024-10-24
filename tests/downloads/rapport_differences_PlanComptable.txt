@@ -1,7 +1,7 @@
-Rapport de comparaison des rapports PDFs
+Rapport de comparaison des PDFs
 ==============================
 
-Date de comparaison: 2024-10-23 12 h 27 min 23 s
+Date de comparaison: 2024-10-23 12 h 28 min 01 s
 Fichier 1: rapport_genere_PlanComptable.pdf
 Fichier 2: rapport_reference_PlanComptable.pdf
 Similarité: 11.74%
@@ -15,7 +15,7 @@ Détails des différences:
 ========================
 
    1 [-] essais-membre (tests auto) formation date :2024-10- 23 21 heure :12: 27 23 :
-   2 [-] 13 plan comptable sélection par 25 bilan pour la période 2024-2 transaction
+   2 [-] 46 plan comptable sélection par 25 bilan pour la période 2024-2 transaction
    3 [ ] : tous catégorie en date du gl centre de coût code gldescriptiongroupe de
    4 [-] comptesdistribution 111100banque : 2024 - compte généralbanquenon
    5 [-] 111101dépôt en fiducieactifnon 111104banque générale rlbebanqueoui
@@ -41,7 +41,7 @@ Détails des différences:
   25 [-] organismactifoui 113205frais payées d'avanceactifoui 113210comptes a
   26 [-] recevoir-autresactifoui ( cogitest)10 sigls . 30.301 - acceptation -
   27 [-] v2.30.0.254 | logic.netpage 1 de 15 essais-membre (tests auto net ) date :
-  28 [-] 2024-10-23 heure :12:27:13 plan comptable sélection par : tous catégorie du
+  28 [-] 2024-10-23 heure :12:27:46 plan comptable sélection par : tous catégorie du
   29 [-] gl centre de coût code gldescriptiongroupe de comptesdistribution
   30 [-] 113215compte a recevoir centre de serviceactifoui 113220compte 470.00 tps à
   31 [ ] recevoir osdactifoui 113230c/ rec 655 . - gestion de sinistresactifoui
@@ -67,7 +67,7 @@ Détails des différences:
   51 [-] 121110biens dét 495 . immo.fin.c.t. #155actifoui 121130bâtimentsactifoui
   52 [-] (cogitest 00 ) 10.30.301 compte à payer - acceptation - v2 fournisseurs
   53 [+] 74,473 . 30.0.254 | logic.netpage 2 de 15 essais-membre 88 gestion dépôt et
-  54 [+] remboursement des clés ( tests auto) date : 2024- 10 -23 heure :12:27:13
+  54 [+] remboursement des clés ( tests auto) date : 2024- 10 -23 heure :12:27:46
   55 [-] plan comptable sélection par : tous catégorie du gl centre de coût code
   56 [-] gldescriptiongroupe de comptesdistribution
   57 [-] 121140machinerie/équipementactifoui 121200amort . acc- biens détenusactifoui
@@ -91,7 +91,7 @@ Détails des différences:
   75 [-] constructionpassifoui 212120contrat a payer - edwardspassifoui 212130depense
   76 [-] payé d'avanceactifoui 212150tps 50 perception à payerpassifoui (cogitest)10
   77 [+] payer 366 . 30.301 - acceptation - v2.30.0.254 | logic.netpage 3 de 15
-  78 [-] essais-membre (tests auto) date : 2024- 10 -23 heure :12:27:13 plan
+  78 [-] essais-membre (tests auto) date : 2024- 10 -23 heure :12:27:46 plan
   79 [-] comptable sélection par : tous catégorie du gl centre de coût code
   80 [-] gldescriptiongroupe de comptesdistribution 212160tvq cnt à payerpassifoui
   81 [-] 212200das fédéralespassifoui 212210das federalespassifoui 212220das
@@ -115,7 +115,7 @@ Détails des différences:
   99 [-] reporté.-subv.construc.passifoui 221250apports reportés - contr.
  100 [-] fqhcpassifoui (cogitest)10.30.301 - acceptation - v2.30.0.254 |
  101 [-] logic.netpage 4 de 15 essais-membre (tests auto) date : 2024-10-23 heure
- 102 [-] :12:27:13 plan comptable sélection par : tous catégorie 00 total du gl
+ 102 [-] :12:27:46 plan comptable sélection par : tous catégorie 00 total du gl
  103 [-] centre de coût code gldescriptiongroupe de comptesdistribution 221300dette
  104 [+] passif à moy.terme-remb,amé modpassifoui 222000financement ram à long
  105 [-] termepassifoui 222100dette long terme shq 155passifoui 222200dette long
@@ -140,7 +140,7 @@ Détails des différences:
  124 [-] gatineaupassifoui 241401subvention municipale hullpassifoui (cogitest)10
  125 [+] municipalité 90,000 . 30.301 00 avances ram - acceptation - v2 reçues shq
  126 [+] 225,000 . 30.0.254 | logic.netpage 5 de 15 essais 00 avances ram - membre
- 127 [-] (tests auto) date : 2024-10-23 heure :12:27:13 plan comptable sélection par
+ 127 [-] (tests auto) date : 2024-10-23 heure :12:27:46 plan comptable sélection par
  128 [-] : tous catégorie du gl centre de coût code gldescriptiongroupe de
  129 [-] comptesdistribution 241402subvention municipale gatineaupassifoui
  130 [-] 241403subvention municipale mass reçues municipalité 40,000 . angpassifoui
@@ -165,7 +165,7 @@ Détails des différences:
  149 [-] 516121loyers brutsrevenuoui 516122logis vacants & absorptionrevenuoui
  150 [-] (cogitest) 10.30. 301 303 - acceptation - v2.30.0. 254 249 | logic.netpage 6
  151 [+] 1 de 15 essais-membre (tests auto) 2 formation date :2024-10- 23 21 heure
- 152 [ ] :12: 27 23 : 13 plan comptable sélection par : tous catégorie du gl centre
+ 152 [ ] :12: 27 23 : 46 plan comptable sélection par : tous catégorie du gl centre
  153 [-] de coût code gldescriptiongroupe de comptesdistribution 516123aide 2ieme
  154 [-] recoursrevenuoui 516124sub. ville de gatineaurevenuoui 516130contribution du
  155 [-] fonds d'opért.revenuoui 516180support communautairerevenuoui 516190rabais
@@ -188,7 +188,7 @@ Détails des différences:
  172 [-] (619160)revenuoui 517830subventions organismes publicsrevenuoui
  173 [-] 517840subvention shqrevenuoui (cogitest)10.30.301 - acceptation -
  174 [-] v2.30.0.254 | logic.netpage 7 de 15 essais-membre (tests auto) date :
- 175 [+] période 2024- 10-23 heure 2 transaction : 12:27:13 plan comptable sélection
+ 175 [+] période 2024- 10-23 heure 2 transaction : 12:27:46 plan comptable sélection
  176 [-] par : tous catégorie du gl centre de coût code gldescriptiongroupe de
  177 [-] comptesdistribution 518610revenus d'intérêtsrevenuoui 518611revenus
  178 [-] d'intérets de servicesrevenuoui 518630rev. perçus centre de servicerevenuoui
@@ -212,7 +212,7 @@ Détails des différences:
  196 [-] 612020frais comités-résidants/secteudépenseoui 612120déplacements et
  197 [-] séjourdépenseoui (cogitest)10.30.301 - acceptation - v2.30.0.254 |
  198 [-] logic.netpage 8 de 15 essais-membre (tests auto) en date du : 2024- 10 02 -
- 199 [-] 23 heure :12:27:13 plan comptable sélection par : tous catégorie 29 passif
+ 199 [-] 23 heure :12:27:46 plan comptable sélection par : tous catégorie 29 passif
  200 [+] total du gl centre de coût code gldescriptiongroupe de comptesdistribution
  201 [-] 612123colloques & congresdépenseoui 612125déplacementdépenseoui
  202 [-] 612129déplacementdépenseoui 612220formationdépenseoui 612320conseil
@@ -237,7 +237,7 @@ Détails des différences:
  221 [-] récurrentsdépenseoui 617470dép. reliées aux regroupementsdépensenon
  222 [-] 617490autres dépensesdépenseoui (cogitest)10.30.301 - acceptation -
  223 [-] v2.30.0.254 | logic.netpage 9 de 15 essais-membre (tests auto) date :
- 224 [-] 2024-10-23 heure :12:27:13 plan comptable sélection par : tous catégorie 40
+ 224 [-] 2024-10-23 heure :12:27:46 plan comptable sélection par : tous catégorie 40
  225 [+] $ total du gl centre de coût code gldescriptiongroupe de comptesdistribution
  226 [-] 617491honoraires gestion passif 1 % shq jmbdépenseoui 617530soutien à la
  227 [-] clientèledépenseoui 617580dép engagées centre de servicedépenseoui 617581fr
@@ -261,7 +261,7 @@ Détails des différences:
  245 [-] 623710sécuritédépenseoui 623713sécurité rlbdépenseoui 623714surveillance
  246 [-] asticoudépenseoui (cogitest)10.30.301 - acceptation - v2.30.0.254 |
  247 [-] logic.netpage 10 de 15 essais-membre (tests auto) date : 2024-10-23 heure
- 248 [-] :12:27:13 plan comptable sélection par : tous catégorie du gl centre de coût
+ 248 [-] :12:27:46 plan comptable sélection par : tous catégorie du gl centre de coût
  249 [-] code gldescriptiongroupe de comptesdistribution 623840entr. des syst. et
  250 [-] appareils.dépenseoui 623890entretien des ascenseurs.dépenseoui 623920ho.
  251 [-] profes. et de servicedépenseoui 624840entretien des systèmesdépenseoui
@@ -286,7 +286,7 @@ Détails des différences:
  270 [-] 644521infrastructure (c 53 ) dépenseoui 644522superstructure bénéfice net (
  271 [-] c perte nette ) dépenseoui ( cogitest)10 120,567 . 30.301 - acceptation -
  272 [-] v2.30.0.254 | logic.netpage 11 de 15 essais-membre (tests auto ) date :
- 273 [-] 2024-10-23 heure :12:27:13 plan comptable sélection par : tous catégorie du
+ 273 [-] 2024-10-23 heure :12:27:46 plan comptable sélection par : tous catégorie du
  274 [-] gl centre de coût code gldescriptiongroupe de comptesdistribution
  275 [-] 644523enveloppe extérieure total des capitaux ( c)dépenseoui 644524toît 1 ,
  276 [-] marquise 167 , terrasse (c)dépenseoui 644529immeuble - cdépenseoui
@@ -307,7 +307,7 @@ Détails des différences:
  291 [-] 645524toît marquise,terrasse (d)dépenseoui 645529immeuble ddépenseoui
  292 [-] 645540terrain ddépenseoui 645541améliorations sur le site (d)dépenseoui
  293 [-] (cogitest)10.30.301 - acceptation - v2.30.0.254 | logic.netpage 12 de 15
- 294 [-] essais-membre (tests auto) date : 2024-10-23 heure :12:27:13 plan comptable
+ 294 [-] essais-membre (tests auto) date : 2024-10-23 heure :12:27:46 plan comptable
  295 [-] sélection par : tous catégorie $ total du gl centre de coût code
  296 [-] gldescriptiongroupe de comptesdistribution 645542aut. composants ''terrain''
  297 [-] ddépenseoui 645549terrain ddépenseoui 645560dépense-décontamina
@@ -331,7 +331,7 @@ Détails des différences:
  315 [-] 657505int. sur dette à court termedépenseoui 657510int. sur dette à long
  316 [-] termedépenseoui (cogitest)10.30.301 - acceptation - v2.30.0.254 |
  317 [-] logic.netpage 13 de 15 essais-membre (tests auto) date : 2024-10-23 heure
- 318 [-] :12:27:13 plan comptable sélection par : tous catégorie du gl centre de coût
+ 318 [-] :12:27:46 plan comptable sélection par : tous catégorie du gl centre de coût
  319 [-] code gldescriptiongroupe de comptesdistribution 657515intéret tps/tvq
  320 [-] revenus qcdépenseoui 657520int.dette long terme-organismedépenseoui
  321 [-] 657530int. dette long terme- shqdépenseoui 657610int. dette lt-ram
@@ -355,7 +355,7 @@ Détails des différences:
  339 [-] 669232rois/dames de coeurdépenseoui 669241dons (québec enfants)dépenseoui
  340 [-] (cogitest)10 689 . 30.301 - acceptation - v2.30.0.254 | logic.netpage 14 de
  341 [-] 15 essais-membre 74 $ ( tests auto youham17 ) date : 2024- 10 -23 heure
- 342 [-] :12:27:13 plan comptable sélection par : tous catégorie du gl centre de coût
+ 342 [-] :12:27:46 plan comptable sélection par : tous catégorie du gl centre de coût
  343 [-] code gldescriptiongroupe de comptesdistribution 669242étudesdépenseoui
  344 [-] 669243partenariats (ski-cool)dépenseoui 669251grandir avec les
  345 [-] arbresdépenseoui 669252animation de quartierdépenseoui 669253concours
